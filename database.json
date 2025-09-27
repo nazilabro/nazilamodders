@@ -1,0 +1,6 @@
+{
+  "tokens": [
+    { "type": "telegram", "value": "123456:ABC-tele", "permanent": true },
+    { "type": "github", "value": "ghp_example123", "permanent": false, "expiresAt": 1758800000000 }
+  ]
+}
