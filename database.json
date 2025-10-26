@@ -1,10 +1,12 @@
 [
   {
     "username": "developerz",
-    "password": "adminganz"
+    "password": "adminganz",
+    "role": "developer"
   },
   {
     "username": "ownerbug",
-    "password": "ownnazila"
+    "password": "ownnazila",
+    "role": "owner"
   }
 ]
