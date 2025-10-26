@@ -1,11 +1,15 @@
 {
-  "accounts": [],
+  "accounts": [
+    {
+      "username": "nazila",
+      "password": "123"
+    }
+  ],
   "maintenance": false,
   "message": "Website sedang dalam maintenance...",
   "serverOn": true,
   "domainOn": true,
   "logs": [
-    "2025-10-26T04:00:14.624Z: Maintenance enabled",
-    "2025-10-26T04:00:18.324Z: Maintenance disabled"
+    "2025-10-26T04:01:46.547Z: Account added"
   ]
 }
