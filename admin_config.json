@@ -2,9 +2,10 @@
   "accounts": [],
   "maintenance": false,
   "message": "Website sedang dalam maintenance...",
-  "serverOn": false,
+  "serverOn": true,
   "domainOn": true,
   "logs": [
-    "2025-10-26T03:59:44.323Z: Server stopped"
+    "2025-10-26T03:59:44.323Z: Server stopped",
+    "2025-10-26T03:59:45.247Z: Server started"
   ]
 }
