@@ -2,11 +2,9 @@
   {
     "username": "developerz",
     "password": "adminganz",
-    "role": "developer"
   },
   {
     "username": "ownerbug",
     "password": "ownnazila",
-    "role": "owner"
   }
 ]
