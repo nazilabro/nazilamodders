@@ -1,12 +1,3 @@
-[
-  {
-    "username": "developerz",
-    "password": "adminganz",
-    "role": "DEVELOPERZ",
-  },
-  {
-    "username": "ownerbug",
-    "password": "ownnazila",
-    "role": "OWNER",
-  }
-]
+{
+  "token" : []
+}
